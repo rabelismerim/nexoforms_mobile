@@ -1,0 +1,15 @@
+﻿node_modules/
+android/local.properties
+android/.gradle/
+android/.cxx/
+android/**/build/
+ios/Pods/
+ios/build/
+ios/DerivedData/
+ios/xcuserdata/
+.bundle/
+.idea/
+.env
+.env.*
+*.log
+coverage/

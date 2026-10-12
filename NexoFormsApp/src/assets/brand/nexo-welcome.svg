@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="372" height="164" viewBox="0 0 372 164">
+  <defs><linearGradient id="blue" x1="22" y1="120" x2="106" y2="38" gradientUnits="userSpaceOnUse"><stop stop-color="#237BFF"/><stop offset="1" stop-color="#69C9FF"/></linearGradient></defs>
+  <rect x="0.75" y="0.75" width="370.5" height="162.5" rx="24" fill="#101B2C" stroke="#263957" stroke-width="1.5"/>
+  <rect x="30" y="35" width="70" height="94" rx="15" fill="#172E4E" transform="rotate(-10 65 82)"/>
+  <path d="M53 32H87L111 56V116C111 124 105 130 97 130H53C45 130 39 124 39 116V46C39 38 45 32 53 32Z" fill="url(#blue)"/>
+  <path d="M87 32V48C87 53 90 56 95 56H111" fill="#BAE6FF"/>
+  <path d="M57 87L69 99L94 74" fill="none" stroke="#080D16" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="139" y="77" fill="#F4F7FC" font-family="Arial, sans-serif" font-size="31" font-weight="700" letter-spacing="1">NEXO</text>
+  <text x="139" y="110" fill="#69B4FF" font-family="Arial, sans-serif" font-size="27" font-weight="400" letter-spacing="3">FORMS</text>
+  <circle cx="325" cy="39" r="4" fill="#237BFF"/><circle cx="337" cy="39" r="4" fill="#69C9FF"/>
+</svg>

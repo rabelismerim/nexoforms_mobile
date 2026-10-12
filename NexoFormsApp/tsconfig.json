@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "strict": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "src/*"
+      ],
+      "@env": [
+        "./env.d.ts"
+      ]
+    },
+    "outDir": "./dist"
+  },
+  "extends": "@react-native/typescript-config/tsconfig.json",
+  "include": [
+    "App.tsx",
+    "src/workspace/**/*",
+    "__tests__/**/*"
+  ]
+}
